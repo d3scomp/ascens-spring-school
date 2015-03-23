@@ -1,0 +1,4 @@
+network;input/Siouxfalls_network_PT.xml;UTF-8
+events;matsim/ITERS/it.0/0.events.xml
+ensembles;logs/ensembles.xml;US-ASCII
+time;56
